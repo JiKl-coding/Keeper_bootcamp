@@ -7,12 +7,12 @@ html {
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #eee;
+  background: linear-gradient(90deg, #89c6e9 0%, #c3cfe2 100%);
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #025abe;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -33,12 +33,12 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #000000;
 }
 .note {
-  background: #fff;
+  background: #ebebeb;
   border-radius: 7px;
-  box-shadow: 0 2px 5px #ccc;
+  box-shadow: 0 2px 5px #27262663;
   padding: 10px;
   width: 240px;
   margin: 16px;
